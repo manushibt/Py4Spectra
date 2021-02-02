@@ -5,7 +5,7 @@ import numpy as np
 import pandas as pd
 
 #Set your input path
-inputpath= "C:/Users/manus/Downloads/Justine_Mych_Lansing/Justine_Mych_Lansing/raw_data/"
+inputpath= "path/Downloads/Justine_Mych_Lansing/Justine_Mych_Lansing/raw_data/"
 
 #Set your file type
 search_criteria= "*.sig"
